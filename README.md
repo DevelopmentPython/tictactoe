@@ -39,18 +39,6 @@ The game includes the following core features:
 
 ---
 
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/DevelopmentPython/YourRepository.git
-
-cd YourRepository
-
-python tic_tac_toe.py
-```
-
----
-
 ## 💡 What I Learned
 
 This project helped me develop skills in:
