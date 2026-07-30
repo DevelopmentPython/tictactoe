@@ -1,6 +1,6 @@
 # ❌⭕ Tic-Tac-Toe
 
-A classic **Tic-Tac-Toe** game developed in **Python** that supports two-player, turn-based gameplay. The project recreates the original game while demonstrating fundamental programming concepts through an interactive and easy-to-use interface.
+This is a simple Tic-Tac-Toe game that supports two-player turn-based gameplay, developed using **Python**. It includes simple Tic-Tac-Toe game mechanics similar to the original game, such as game board management, move validation, and automated win/draw detection and is able to display the scores of two players and whose turn it is.
 
 ---
 
@@ -56,5 +56,3 @@ This project helped me develop skills in:
 ## 📄 License
 
 This project is available for educational purposes.
-
-This is a simple Tic-Tac-Toe game that supports two-player turn-based gameplay, developed using Python. It includes simple Tic-Tac-Toe game mechanics similar to the original game, such as game board management, move validation, and automated win/draw detection and is able to display the scores of two players and whose turn it is.
